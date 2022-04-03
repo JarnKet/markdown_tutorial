@@ -2,7 +2,9 @@
 ![logo](img/logo.png)
 
 # :book: ສະຫລຸບ 
-Markdown is a lightweight markup language for creating formatted text using a plain-text editor. John Gruber and Aaron Swartz created Markdown in 2004 as a markup language that is appealing to human readers in its source code form. Markdown is widely used in blogging, instant messaging, online forums, collaborative software, documentation pages, and readme files.
+Markdown ເປັນພາສາ Markup ທີ່ມີຂະໜາດເບົາທີ່ໃຊ້ສຳລັບການສ້າງຂໍ້ຄວາມທຳມະດາ.
+ຖຶກສ້າງຂຶ້ນໂດຍ John Gruber ແລະ Aaron Swartz ໃນປີ ຄ.ສ 2004.
+Markdown ຖືກນິຍົມໃຊ້ຫລາຍໃນ Blog, Forum ຕ່າງໆ, ເອກະສານປະກອບໂປເຈັກໃດໜຶ່ງເປັນຕົ້ນ.
 
 # :pushpin: Heading (ຫົວຂໍ້)
 ໃນການເຮັດຫົວຂໍ້ນັ້ນແມ່ນຄ້າຍຄືກັບພາສາ HTML ເຊິ່ງຈະມີຢູ່ 6 ລະດັບຕັ້ງແຕ່ 1-6 ແລະ ໃຊ້ເຄື່ອງໝາຍ __#__  
@@ -38,8 +40,8 @@ __ໃນການລົງແຖວນັ້ນສາມາດເຮັດໄດ
 
 __Code__
 ```Markdown
-Ketsadaphone BOUTPANYDA  (ຍະຫວ່າງສອງເທື່ອເພື່ອລົງແຖວໃໝ່)
-Web Developer
+ເກດສະດາພອນ ບຸດປານີດາ  (ຍະຫວ່າງສອງເທື່ອເພື່ອລົງແຖວໃໝ່)
+ນັກອອກແບບ ແລະ ພັດທະນາເວັບໄຊ້ສ
 
 ```
 
@@ -98,8 +100,8 @@ __Code__
 __Code__
 ```Markdown
 1. Sunday
-2. Monday
-3. Tuesday
+1. Monday
+1. Tuesday
 ```
 
 # :green_book: ລັກສະນະຕົວອັກສອນ
@@ -198,7 +200,7 @@ __Code__
 ![my 2nd pic](img/jetbrains_logo.png)
 ```
 
-Favorite Character  
+Programmer 
 ![Programmer](https://eduauraapublic.s3.ap-south-1.amazonaws.com/webassets/images/blogs/how-to-become-a-programmer-in-india.jpg)
 
 __Code__
@@ -221,7 +223,7 @@ __Code__
 
 ໃນການນຳ Code ຂອງພາສາອື່ນໆເຂົ້າມາສະແດງຜົນນັ້ນສາມາດເຮັດໄດ້ຕາມວິທີດັ່ງລຸ່ມນີ້:  
 
-__Code__
+__Code__  
 Markdown  
 ![code](img/code.png)
 

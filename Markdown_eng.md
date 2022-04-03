@@ -151,7 +151,7 @@ JetBrains
 ![my 2nd pic](img/jetbrains_logo.png)
 ```
 
-Favorite Character  
+Programmer 
 ![Programmer](https://eduauraapublic.s3.ap-south-1.amazonaws.com/webassets/images/blogs/how-to-become-a-programmer-in-india.jpg)
 ```Markdown
 ![Programmer](https://eduauraapublic.s3.ap-south-1.amazonaws.com/webassets/images/blogs/how-to-become-a-programmer-in-india.jpg)
