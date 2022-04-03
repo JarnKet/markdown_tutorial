@@ -54,3 +54,17 @@ table, td{
 footer{
     text-align: center;
 }
+@media only screen and (max-width: 770px) {
+    html{
+    max-width: 38rem;
+    padding: 1rem;
+    margin: auto;
+    line-height: 1.5rem;
+    font-size: 16px;
+    }
+    .code_block{
+    line-height: 1rem;
+    font-size: 12px;
+    padding: 1rem;
+    }
+}
