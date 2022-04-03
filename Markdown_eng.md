@@ -96,11 +96,11 @@ Web Developer
   ```
 
 3. Combine
-- **You can combine _Italic_ **
-- *You can combine __Bold__ *
+- **You can combine _Italic_**
+- *You can combine __Bold__*
 - ```Markdown
-  - **You can combine _Italic_ **
-  - *You can combine __Bold__ *
+  - **You can combine _Italic_**
+  - *You can combine __Bold__*
   ```
 
 # :bookmark_tabs: Contents 
